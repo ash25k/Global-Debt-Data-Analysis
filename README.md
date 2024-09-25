@@ -1,0 +1,1 @@
+A global debt data analysis involves collecting, cleaning, and visualizing debt trends across countries. The tech stack typically includes Python (Pandas, NumPy), SQL for databases, and visualization tools like Power BI, Tableau, or Matplotlib.
